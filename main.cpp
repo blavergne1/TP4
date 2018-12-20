@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     
     cout<<"Bonjour"<<endl;
     cout <<"Test avec un second cout"<<endl;
-
+    cout<< "programe modifié" << endl;
     return 0;
 }
 
